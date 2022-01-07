@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Post to Rundeck
+name: Post_to_Rundeck
 
 # Controls when the workflow will run
 on:
